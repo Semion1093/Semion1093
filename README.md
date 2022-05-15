@@ -3,7 +3,7 @@
 
 
 ## I'm a C# /.Net Developer
-- 💪 I like to write code
+- 💪 I graduated from DevEducation IT-college
 - 🥅 I am currenly learning C#, SQL and English
 - 📫 My Telegram: https://t.me/sam9310
 - 🌍 I speak Russian (native), English (B1+)
