@@ -4,9 +4,9 @@
 
 ## I'm a C# /.Net Developer
 - 💪 I graduated from DevEducation IT-college
-- 🥅 I am currenly learning C#, SQL and English
+- 🥅 I am currenly learning HTML, CSS, React, TypeScript
 - 📫 My Telegram: https://t.me/sam9310
-- 🌍 I speak Russian (native), English (B1+)
+- 🌍 I speak Russian (native), English (B2)
 
 ## Languages and tools:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
